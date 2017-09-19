@@ -116,7 +116,7 @@ main {
   margin: 1em auto;
   width: 94%;
   max-width: 530px;
-  border-radius: 2px;
+  border-radius: 5px;
   overflow: hidden;
 }
 
@@ -151,7 +151,6 @@ pre.Window-Body {
   padding: 1.75em 2em 0;
   font-size: 14px;
   font-family: "Source Code Pro", Courier New, Courier, monospace;
-  /* font-size: 0.875em; */
   color: #fff;
   background: #201A41;
 }
