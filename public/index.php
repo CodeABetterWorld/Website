@@ -1,10 +1,11 @@
 <!doctype html>
 <html lang="en">
   <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>codeforabetter.world</title>
     <meta name="description" content="Code A Better World is an open-group for people who want to help make the world a better place through code." />
+    <link rel="shortcut icon" href="/favicon.ico" />
     <link href="//fonts.googleapis.com/css?family=Source+Code+Pro|Source+Sans+Pro" rel="stylesheet" />
     <link href="/site.css" rel="stylesheet" />
     <link href="/highlight.css" rel="stylesheet" />
