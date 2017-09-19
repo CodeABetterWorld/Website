@@ -210,3 +210,9 @@ pre.Window-Body {
 .Sponsors li:before {
   content: "- ";
 }
+
+.Foot {
+  text-align: center;
+  color: rgba(0,0,0,0.4);
+   font-size: 0.875em;
+}
