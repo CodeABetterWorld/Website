@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="68px" height="55px" viewBox="0 0 68 55" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="50%" x2="57.9595548%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#FF1D60" offset="0%"></stop>
+            <stop stop-color="#F70049" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#FF5084" offset="0%"></stop>
+            <stop stop-color="#FF004B" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-480.000000, -194.000000)">
+            <g id="Group" transform="translate(474.000000, 190.000000)">
+                <g transform="translate(40.000000, 20.806202) rotate(-45.000000) translate(-40.000000, -20.806202) translate(11.764706, -7.565891)">
+                    <path d="M56.4705882,40.1937984 C56.4705882,31.0532718 49.0964547,23.6434109 40,23.6434109 L0,23.6434109 L0,51.5426357 C0,54.4153726 2.31758482,56.744186 5.17647059,56.744186 L40,56.744186 C49.0964547,56.744186 56.4705882,49.3343251 56.4705882,40.1937984 Z" id="Rectangle-Copy" fill="url(#linearGradient-1)"></path>
+                    <path d="M16.4705882,0 C25.5670429,-1.67908751e-15 32.9411765,7.40986092 32.9411765,16.5503876 L32.9411765,56.744186 L5.17647059,56.744186 C2.31758482,56.744186 3.5011253e-16,54.4153726 0,51.5426357 L0,16.5503876 C-1.11399441e-15,7.40986092 7.37413353,1.67908751e-15 16.4705882,0 Z" id="Rectangle" fill="url(#linearGradient-2)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
