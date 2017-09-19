@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>codeforabetter.world</title>
+    <title>Code A Better World</title>
     <meta name="description" content="Code A Better World is an open-group for people who want to help make the world a better place through code." />
     <link href="/favicon.ico" rel="shortcut icon" />
     <link href="//fonts.googleapis.com/css?family=Source+Code+Pro|Source+Sans+Pro" rel="stylesheet" />
