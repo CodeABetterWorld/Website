@@ -16,7 +16,7 @@
         <header class="Window-Bar">
           <h1>codeabetter.world</h1>
         </header>
-        <pre class="Window-Body"><code class="markdown"><?php require("./info.md"); ?></code></pre>
+        <pre class="Window-Body"><code class="markdown"><?php require("../info.md"); ?></code></pre>
       </article>
     </main>
     <script src="/highlight.pack.js"></script>

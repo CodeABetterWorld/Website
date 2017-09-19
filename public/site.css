@@ -122,10 +122,29 @@ main {
 }
 
 .Window-Bar {
-  padding: 0.6em 1em 0.6em 3em;
+  position: relative;
+  padding: 0.6em 1em 0.6em 3.5em;
   font-size: 0.875em;
   color: rgba(0,0,0,0.65);
   background: #CDD2D8;
+}
+
+.Window-Bar:before,
+.Window-Bar:after {
+  position: absolute;
+  top: 50%;
+  left: 1em;
+  display: block;
+  content: "";
+  width: 0.642857143em;
+  height: 0.642857143em;
+  background: rgba(0,0,0,0.14);
+  border-radius: 50%;
+  transform: translateY(-50%);
+}
+
+.Window-Bar:after {
+  left: 2em;
 }
 
 .Window-Body {
