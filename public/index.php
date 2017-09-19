@@ -18,9 +18,9 @@
         </header>
         <section class="Window-Body">
           <h2>What is this?</h2>
-          <p><strong>**Code A Better World**</strong> is an open group for designers and developers who want to use their skills to help make the world a better place.  Our goal is to assemble a team of volunteers who can assist in creating libraries, software and websites that impacts others in a positive way.</p>
+          <p><strong>**Code A Better World**</strong> is an open group for designers and developers who want to use their skills to help make the world a better place.  Our goal is to assemble a team of volunteers who can assist in creating libraries, software and websites that impact others in a positive way.</p>
           <h2>How Can I Help?</h2>
-          <p>We're always looking for people interested in offering their time and expertise to help.  You can request an invitation to our <a href="https://codeabetterworld.slack.com">Slack</a> to join in the discussion.</p>
+          <p>We're always looking for people interested in offering their time and expertise to help.  You can <a href="https://codeabetterworld.herokuapp.com/">request an invitation</a> to our <a href="https://codeabetterworld.slack.com">Slack</a> to join in the discussion.</p>
           <p>You can also show your support by following us on <a href="https://twitter.com/codebetterworld">Twitter</a> and <a href="https://github.com/codeabetterworld">Github</a>.</p>
           <hr />
           <!-- <div class="Sponsors">
