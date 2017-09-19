@@ -17,6 +17,9 @@
           <h1>codeabetter.world</h1>
         </header>
         <pre class="Window-Body"><code class="markdown"><?php require("../info.md"); ?></code></pre>
+        <section class="Window-Body">
+          Find us on <a href="https://github.com/codeabetterworld">Github</a>
+        </section>
       </article>
     </main>
     <script src="/highlight.pack.js"></script>

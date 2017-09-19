@@ -50,8 +50,7 @@ a {
     font-size:100%;
     vertical-align:baseline;
     background:transparent;
-    color: inherit;
-    text-decoration: none;
+    color: #A291FF;
 }
 
 /* change colours to suit your needs */
@@ -147,11 +146,20 @@ main {
   left: 2em;
 }
 
-.Window-Body {
-  padding: 1.75em 2em;
+.Window-Body,
+pre.Window-Body {
+  padding: 1.75em 2em 0;
+  font-size: 14px;
   font-family: "Source Code Pro", Courier New, Courier, monospace;
   /* font-size: 0.875em; */
   color: #fff;
   background: #201A41;
 }
 
+.Window-Body:last-child {
+  padding-bottom: 1.75em;
+}
+
+.Window-Body code {
+  font: inherit;
+}
