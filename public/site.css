@@ -102,6 +102,39 @@ input, select {
   -webkit-box-sizing: border-box;
 }
 
+h2, h3, h4, h5, h6,
+hr, p, ol, ul {
+  margin: 0 0 1.5em;
+}
+
+hr {
+  display: block;
+  border: 0;
+  text-align: center;
+  height: auto;
+}
+
+hr:before {
+  content: "~ * ~";
+}
+
+h2, h3, h4, h5, h6 {
+  font: inherit;
+  color: #407ee7;
+}
+
+h2:before {
+  content: "## ";
+}
+
+h3:before {
+  content: "### ";
+}
+
+h4:before {
+  content: "#### ";
+}
+
 main {
    margin: 10em 0 3em;
 }
@@ -159,6 +192,20 @@ pre.Window-Body {
   padding-bottom: 1.75em;
 }
 
-.Window-Body code {
-  font: inherit;
+.Window-Body > *:last-child {
+  margin-bottom: 0;
+}
+
+.Sponsors-Intro {
+  margin-bottom: 0.5em;
+}
+
+.Sponsors ul {
+  display: block;
+  margin: 0;
+  list-style: none;
+}
+
+.Sponsors li:before {
+  content: "- ";
 }
