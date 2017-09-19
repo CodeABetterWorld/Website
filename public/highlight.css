@@ -54,7 +54,7 @@
 
 .hljs {
   display: block;
-  overflow-x: auto;
+  white-space: pre-wrap;
   color: #fff;
 }
 

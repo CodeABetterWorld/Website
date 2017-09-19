@@ -1,7 +1,5 @@
-## What?
+## What is this?
 
-## Why?
-That's a question that shouldn't need to be asked.
+**Code A Better World** is an open group for developers who want to use their skills to help others at no cost.  Our goal is to assemble a team of volunteers who can help us build software, websites and more for charities and non-profits.
 
-## How?
-We're still figuring out the details on the how.
+_More info coming soon._
